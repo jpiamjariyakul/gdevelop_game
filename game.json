@@ -118,6 +118,24 @@
         "name": "player_core-1.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "wall_green-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wall_green-1-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "wall_green-1-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wall_green-1-1-1.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []

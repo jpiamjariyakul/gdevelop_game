@@ -23,7 +23,7 @@
     "gridWidth": 16,
     "snap": true,
     "windowMask": true,
-    "zoomFactor": 2.5414348573000365
+    "zoomFactor": 2.2614348573000362
   },
   "objectsGroups": [],
   "variables": [],
@@ -85,9 +85,25 @@
       "name": "wall_main",
       "persistentUuid": "17f94db3-f4d2-41d7-85e3-df1b38d8e647",
       "width": 208,
-      "x": 128,
-      "y": 64,
+      "x": 112,
+      "y": 0,
       "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 16,
+      "layer": "",
+      "locked": false,
+      "name": "wall_inside",
+      "persistentUuid": "27b9bb7a-b2cb-44db-8019-049f58527c28",
+      "width": 208,
+      "x": 112,
+      "y": 16,
+      "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -232,9 +248,19 @@
     },
     {
       "height": 16,
+      "name": "wall_inside",
+      "tags": "",
+      "texture": "wall_green-1-1-1.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 16,
+      "variables": [],
+      "behaviors": []
+    },
+    {
+      "height": 16,
       "name": "wall_main",
       "tags": "",
-      "texture": "wall_green-1.png",
+      "texture": "wall_green-1-1.png",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 16,
       "variables": [],
